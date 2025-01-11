@@ -9,6 +9,8 @@ public class Lab015_Variables {
         data_type= int, float, byte, short, long, char, string, double
         variable_value= literal
          */
+        int b=120;
+        System.out.println(a+b);
 
     }
 }

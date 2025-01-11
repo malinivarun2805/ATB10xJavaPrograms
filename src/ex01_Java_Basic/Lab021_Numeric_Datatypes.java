@@ -6,6 +6,6 @@ public class Lab021_Numeric_Datatypes {
         //-128 to 127
         short a=128;
         int d=287467;
-        long c=993487862;
+        long c=993487864;
     }
 }

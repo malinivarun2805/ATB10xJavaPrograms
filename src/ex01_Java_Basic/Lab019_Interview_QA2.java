@@ -6,5 +6,6 @@ public class Lab019_Interview_QA2 {
         System.out.println(enum);
         Invalid code
         */
+        int a_b=2;
     }
 }
