@@ -2,7 +2,7 @@ package ex04_operators;
 
 public class Lab045_int_Q {
     public static void main(String[] args) {
-        long l=101; //bits=64, byte=8
+        long l=10l; //bits=64, byte=8
         String s="name"; //bits=64, byte=8
 
         char a1='A';//ASCII value of A=65

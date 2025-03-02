@@ -4,6 +4,7 @@ public class Lab050_Typecasting_P3 {
     public static void main(String[] args) {
         long phone_no=865765899;
         short s=(short)phone_no;
+        System.out.println(s);
 
         // where is it used?
         /*

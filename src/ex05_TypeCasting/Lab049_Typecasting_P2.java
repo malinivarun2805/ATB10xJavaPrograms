@@ -6,6 +6,7 @@ public class Lab049_Typecasting_P2 {
         int val=200;
        // byte b=val; //invalid
         byte b=(byte)val;//Valid--> answer- overflow-and data loss
+        System.out.println(b);
 
 
     }
