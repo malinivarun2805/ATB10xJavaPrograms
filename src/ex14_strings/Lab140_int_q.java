@@ -27,5 +27,6 @@ public class Lab140_int_q {
         System.out.println(s3.equalsIgnoreCase(s5));
 
 
+
     }
 }

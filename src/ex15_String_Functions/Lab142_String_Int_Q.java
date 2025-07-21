@@ -1,6 +1,6 @@
-package ex14_strings;
+package ex15_String_Functions;
 
-public class String_Int_Q {
+public class Lab142_String_Int_Q {
     public static void main(String[] args) {
         String s1= "Hello"; //String Constant Pool-1
         String s4= "Hello"; //SCP-1
